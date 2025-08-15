@@ -1,0 +1,37 @@
+{
+  "name": "image-resizer-background-remover",
+  "version": "1.0.0",
+  "description": "A modern web application for resizing images, removing backgrounds, and saving your work",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server -p 8000",
+    "dev": "npx live-server --port=8000"
+  },
+  "keywords": [
+    "image",
+    "resizer",
+    "background-remover",
+    "web-app",
+    "javascript",
+    "html5",
+    "canvas"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/image-resizer-background-remover.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/image-resizer-background-remover/issues"
+  },
+  "homepage": "https://github.com/yourusername/image-resizer-background-remover#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
