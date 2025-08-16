@@ -1,0 +1,39 @@
+{
+  "name": "cybersecurity-challenge-hub",
+  "version": "1.0.0",
+  "description": "A comprehensive collection of mid-level to advanced cybersecurity challenges, questions, and practical exercises designed to enhance your security skills across multiple domains.",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server -p 8000",
+    "dev": "npx live-server --port=8000"
+  },
+  "keywords": [
+    "cybersecurity",
+    "challenges",
+    "security",
+    "penetration-testing",
+    "forensics",
+    "cryptography",
+    "osint",
+    "web-security",
+    "educational"
+  ],
+  "author": "Cybersecurity Challenge Hub",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/cybersecurity-challenge-hub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/cybersecurity-challenge-hub/issues"
+  },
+  "homepage": "https://github.com/yourusername/cybersecurity-challenge-hub#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
