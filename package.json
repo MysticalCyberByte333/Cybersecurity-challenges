@@ -23,12 +23,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MysticalCyberByte333/cybersecurity-challenge-hub.git"
+    "url": "https://github.com/MysticalCyberByte333/Cybersecurity-challenges.git"
   },
   "bugs": {
-    "url": "https://github.com/MysticalCyberByte333/cybersecurity-challenge-hub/issues"
+    "url": "https://github.com/MysticalCyberByte333/Cybersecurity-challenges/issues"
   },
-      "homepage": "https://github.com/MysticalCyberByte333/cybersecurity-challenge-hub#readme",
+  "homepage": "https://github.com/MysticalCyberByte333/Cybersecurity-challenges#readme",
   "devDependencies": {
     "http-server": "^14.1.1",
     "live-server": "^1.2.2"

@@ -672,7 +672,7 @@ function loadToolsTab() {
 
 // Load resources tab content
 function loadResourcesTab() {
-    const container = document.getElementById('resources-container');
+    const container = document.getElementById('resources');
     if (!container) return;
     
     const resources = {
